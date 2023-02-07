@@ -4,3 +4,5 @@ A 16-bit MIPS processor was implemented using VHDL. It can perform specific task
 ![209860912-6a4035bb-fa74-4d04-bd93-fe10a3fc6e19](https://user-images.githubusercontent.com/107257581/217306183-4ea50030-c283-4897-9c6b-3b74b1026a64.png)
 
 ![209860914-e6ae5cf5-2c6d-419c-9e02-30d95c2fd5cd](https://user-images.githubusercontent.com/107257581/217306404-ad9e41b7-c988-425a-86ac-7e051e7a8aed.jpg)
+
+![209860920-646f76d6-ea1d-4501-ab41-80447fb392be](https://user-images.githubusercontent.com/107257581/217306623-306f2186-d3c4-4429-aea8-b52a4028d807.jpg)
